@@ -1,3 +1,5 @@
+#1.Binary Search.
+
 #include<stdio.h>
 #include<stdlib.h>
 void main()
